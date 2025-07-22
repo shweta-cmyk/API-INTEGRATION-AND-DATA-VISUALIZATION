@@ -29,15 +29,11 @@ Charts can include: line plots, bar charts, pie charts, heatmaps, etc.
 
 Add proper titles, labels, legends, and color schemes to make graphs readable and attractive.
 
-🧰 Technologies and Tools:
-
-Python
-
-Requests – to fetch API data
-
-Pandas – for data manipulation
-
-Matplotlib / Seaborn – for data visualization
+Technologies and Tools:
+•Python
+•Requests – to fetch API data
+•Pandas – for data manipulation
+•Matplotlib / Seaborn – for data visualization
 
 📁 Final Deliverables:
 
@@ -52,3 +48,6 @@ The API used
 What the visualizations show
 
 Key insights from the data
+
+*Output*:
+![Image](https://github.com/user-attachments/assets/4d41d180-3925-42ff-8eb8-e7cd6bed65b7)
